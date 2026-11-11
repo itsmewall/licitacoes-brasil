@@ -1,0 +1,2 @@
+# Obras e serviços de engenharia
+Bases: art. 6º, XII, XXI, XXIV-XXVI, art. 23, §2º, art. 46 da Lei 14.133/2021. Diferenciar obra, serviço comum e especial de engenharia. Conferir regime de execução, responsabilidade por projetos, estudos e levantamentos, anteprojeto, projeto básico e executivo. Compatibilizar memorial, quantitativos, orçamento, cronograma, riscos e fiscalização. Usar SINAPI/SICRO e BDI/encargos quando pertinentes; não fabricar medições, ART/RRT, sondagens ou cálculos.

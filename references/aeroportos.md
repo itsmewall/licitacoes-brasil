@@ -1,0 +1,2 @@
+# Lotes e hangares aeroportuários
+Verificar regime do aeródromo, titularidade e competência de exploração de áreas, delimitação dos lotes, acessos, infraestrutura, responsabilidades por construção e manutenção. Considerar ANAC/DECEA, segurança operacional, PBZPA e demais restrições pertinentes com base em dados concretos. Não alegar conformidade ou aprovação inexistente. Modelo de outro aeroporto auxilia estrutura, nunca transfere coordenadas, valores ou dimensões.

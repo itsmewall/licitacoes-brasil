@@ -1,0 +1,9 @@
+{
+  "name": "licitacoes-brasil",
+  "version": "1.0.1",
+  "description": "Skill de licitações brasileiras: DFD, ETP, TR, editais, contratos e revisão técnica e jurídica.",
+  "license": "MIT",
+  "skills": [
+    "./"
+  ]
+}

@@ -1,0 +1,2 @@
+# Mapa e matriz de riscos
+Base: art. 18, X, art. 22 e art. 6º, XXVII, Lei 14.133/2021. Distinguir análise de riscos do planejamento e matriz contratual de alocação. Conferir hipóteses de obrigatoriedade. Registrar evento, causa, fase, probabilidade justificada, impacto, medidas preventivas, mitigação, responsável e consequência contratual. Não atribuir percentual de probabilidade ou risco financeiro sem dados.

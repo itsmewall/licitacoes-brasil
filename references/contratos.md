@@ -1,0 +1,2 @@
+# Instrumento contratual e gestão
+Base: arts. 89-95 e demais regras pertinentes da Lei 14.133/2021. Conferir objeto, prazo, contraprestação ou outorga, garantias, reajuste, fiscalização, recebimento, penalidades, alterações, extinção e riscos. Diferenciar obrigações da Administração e do contratado. Considerar instrumentos de concessão de uso sob regime próprio. Não presumir prorrogações ou indenizações.

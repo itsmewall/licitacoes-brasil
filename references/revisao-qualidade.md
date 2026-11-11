@@ -1,0 +1,2 @@
+# Revisão técnico-jurídica e editorial
+Conferir objeto e regime; precisão das fontes; coerência de DFD, ETP, TR, edital e contrato; quantitativos, prazos, preços/outorga, julgamento, habilitação e fiscalização; referências legais; exigências proporcionais; clareza e naturalidade. Relatório separado deve conter localização, achado, evidência, norma, risco e proposta de correção. Nunca misturar comentários de revisão ao documento final sem pedido.

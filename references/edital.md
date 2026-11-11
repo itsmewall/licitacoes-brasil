@@ -1,0 +1,2 @@
+# Edital e seleção
+Base: arts. 17, 18, 25, 28 a 33 da Lei 14.133/2021 e norma específica. Conferir modalidade, julgamento, disputa, participação, habilitação proporcional, prazos, recursos, sanções e publicidade. Para exploração onerosa de bem público, não presumir julgamento por menor preço. Manter compatibilidade entre edital, TR, ETP, orçamento, riscos e contrato. Não copiar exigências de outros editais sem justificativa.

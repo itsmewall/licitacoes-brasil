@@ -1,0 +1,2 @@
+# Uso de bens públicos
+Base: art. 2º, IV, Lei 14.133/2021 e normas patrimoniais/setoriais do ente. Diferenciar concessão/permissão de uso, cessão, concessão de serviço público e PPP. Verificar titularidade, competência, delimitação da área, ocupação, finalidade, investimentos, exploração, remuneração/outorga, benfeitorias, fiscalização, reversão, sanções e extinção. Não transplantar automaticamente cláusulas de aquisição de serviços.

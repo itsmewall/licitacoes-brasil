@@ -1,0 +1,2 @@
+# Pesquisa de preços e orçamento
+Base: art. 23 da Lei 14.133/2021 e normas aplicáveis. Distinguir bens/serviços gerais (§1º), engenharia (§2º), patrimônio público e outorga. Registrar item, unidade, quantidade, fonte, data, condições e critérios de comparabilidade. Documentar tratamento estatístico, memória de cálculo, reajuste e exclusões justificadas. Não inventar três fornecedores, propostas ou números; orçamento simulado não é orçamento oficial.

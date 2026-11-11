@@ -1,0 +1,2 @@
+# Habilitação documental
+Bases: arts. 62-70 da Lei 14.133/2021. Organizar categorias jurídica (66), técnica (67), fiscal/social/trabalhista (68), econômico-financeira (69). Conferir exigências concretas do edital, validade, proporcionalidade, registros cadastrais, diligências e tratamento ME/EPP. Não afirmar inabilitação automática por falha formal sem examinar a legislação. Não associar formalismo moderado à Súmula 269/TCU sem verificar enunciado.

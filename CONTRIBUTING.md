@@ -1,0 +1,2 @@
+# Contribuindo
+Abra issues com problema, exemplo e referência oficial. Faça PRs com descrição das alterações, testes realizados e fundamento jurídico verificado. Não inclua dados sigilosos, dados pessoais, documentos protegidos sem permissão ou legislação desatualizada como se vigente fosse. Discussões técnicas construtivas são bem-vindas.
